@@ -806,7 +806,7 @@ webpackJsonp([1], {
                 trail: {
                     maxLength: 25,
                     width: 2.8,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 5916214
                 }
             },
@@ -935,7 +935,7 @@ webpackJsonp([1], {
                 img: {
                     sprite: "map-barrel-01.img",
                     scale: .4,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -979,7 +979,7 @@ webpackJsonp([1], {
                     sprite: "map-barrel-02.img",
                     residue: "map-barrel-res-02.img",
                     scale: .4,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -1025,7 +1025,7 @@ webpackJsonp([1], {
                     sprite: "map-bed-02.img",
                     residue: "map-bed-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -1071,7 +1071,7 @@ webpackJsonp([1], {
                     sprite: "map-bookshelf-01.img",
                     residue: "map-drawers-res.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -1113,7 +1113,7 @@ webpackJsonp([1], {
                             sprite: "map-bunker-generic-floor-02.img",
                             pos: ve.create(0, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -1129,7 +1129,7 @@ webpackJsonp([1], {
                             sprite: "map-bunker-generic-ceiling-01.img",
                             pos: ve.create(0, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 0
                         }
@@ -1174,7 +1174,7 @@ webpackJsonp([1], {
                             sprite: "map-bunker-generic-floor-01.img",
                             pos: ve.create(0, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 3
                         }
@@ -1235,7 +1235,7 @@ webpackJsonp([1], {
                             sprite: "map-bunker-statue-chamber-floor-01.img",
                             pos: ve.create(3.5, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 3
                         }
@@ -1251,7 +1251,7 @@ webpackJsonp([1], {
                         {
                             sprite: "",
                             scale: 1,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ],
@@ -1353,7 +1353,7 @@ webpackJsonp([1], {
                         {
                             sprite: "",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -1410,7 +1410,7 @@ webpackJsonp([1], {
                     sprite: "map-case-deagle-01.img",
                     residue: "map-crate-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -1454,7 +1454,7 @@ webpackJsonp([1], {
                     sprite: "map-chest-01.img",
                     residue: "map-crate-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -1559,7 +1559,7 @@ webpackJsonp([1], {
                         {
                             sprite: e.open ? "map-building-container-open-floor.img" : "map-building-container-floor-01.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: e.tint
                         }
                     ]
@@ -1575,7 +1575,7 @@ webpackJsonp([1], {
                         {
                             sprite: e.ceilingSprite,
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: e.tint
                         }
                     ]
@@ -1616,7 +1616,7 @@ webpackJsonp([1], {
                     sprite: "map-couch-01.img",
                     residue: "map-couch-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -1661,7 +1661,7 @@ webpackJsonp([1], {
                     sprite: "map-crate-01.img",
                     residue: "map-crate-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -1744,7 +1744,7 @@ webpackJsonp([1], {
                     sprite: "map-class-crate-01.img",
                     residue: "map-class-crate-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -1792,7 +1792,7 @@ webpackJsonp([1], {
                     sprite: "map-deposit-box-01.img",
                     residue: "none",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -1846,7 +1846,7 @@ webpackJsonp([1], {
                     sprite: "map-door-01.img",
                     residue: "none",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 14671839,
                     zIdx: 15
                 },
@@ -1885,7 +1885,7 @@ webpackJsonp([1], {
                         sprite: "map-door-slot-01.img",
                         pos: ve.create(-2, 0),
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 1316379
                     }
                 },
@@ -1926,7 +1926,7 @@ webpackJsonp([1], {
                     sprite: "map-drawers-01.img",
                     residue: "map-drawers-res.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -1974,7 +1974,7 @@ webpackJsonp([1], {
                     sprite: "map-gun-mount-01.img",
                     residue: "map-drawers-res.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2022,7 +2022,7 @@ webpackJsonp([1], {
                     sprite: "map-locker-01.img",
                     residue: "",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2064,7 +2064,7 @@ webpackJsonp([1], {
                     sprite: "map-power-box-01.img",
                     residue: "",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2108,7 +2108,7 @@ webpackJsonp([1], {
                 img: {
                     sprite: "map-oven-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2153,7 +2153,7 @@ webpackJsonp([1], {
                     sprite: "map-planter-01.img",
                     residue: "map-planter-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2197,7 +2197,7 @@ webpackJsonp([1], {
                     sprite: "map-pot-01.img",
                     residue: "map-pot-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2240,7 +2240,7 @@ webpackJsonp([1], {
                     sprite: "map-bottle-02.img",
                     residue: "none",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2300,7 +2300,7 @@ webpackJsonp([1], {
                     sprite: "map-potato-01.img",
                     residue: "map-potato-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2345,7 +2345,7 @@ webpackJsonp([1], {
                     sprite: "map-pumpkin-01.img",
                     residue: "map-pumpkin-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2387,7 +2387,7 @@ webpackJsonp([1], {
                     sprite: "map-recorder-01.img",
                     residue: "",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 9
                 },
@@ -2443,7 +2443,7 @@ webpackJsonp([1], {
                     sprite: "map-refrigerator-01.img",
                     residue: "map-crate-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2481,7 +2481,7 @@ webpackJsonp([1], {
                 img: {
                     sprite: "map-sandbags-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2525,7 +2525,7 @@ webpackJsonp([1], {
                     sprite: "map-stone-01.img",
                     residue: "map-stone-res-01.img",
                     scale: .4,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2572,7 +2572,7 @@ webpackJsonp([1], {
                     sprite: "map-stone-03.img",
                     residue: "map-stone-res-02.img",
                     scale: .4,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2616,7 +2616,7 @@ webpackJsonp([1], {
                     sprite: "map-table-01.img",
                     residue: "map-table-res.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 60
                 },
@@ -2656,7 +2656,7 @@ webpackJsonp([1], {
                     sprite: "map-toilet-01.img",
                     residue: "map-toilet-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2705,7 +2705,7 @@ webpackJsonp([1], {
                     sprite: "map-tree-03.img",
                     residue: "map-tree-res-01.img",
                     scale: .7,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 800
                 },
@@ -2762,7 +2762,7 @@ webpackJsonp([1], {
                     sprite: "map-tree-switch-01.img",
                     residue: "map-tree-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     zIdx: 10,
                     tint: 16777215
                 },
@@ -2838,7 +2838,7 @@ webpackJsonp([1], {
                 img: {
                     sprite: "map-wheel-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2878,7 +2878,7 @@ webpackJsonp([1], {
                     sprite: "map-woodpile-01.img",
                     residue: "map-woodpile-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -2929,13 +2929,13 @@ webpackJsonp([1], {
                             sprite: "map-building-bank-floor-01.img",
                             pos: ve.create(0, 6.96),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-bank-floor-02.img",
                             pos: ve.create(9.5, -12.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -2962,19 +2962,19 @@ webpackJsonp([1], {
                             sprite: "map-building-bank-ceiling-01.img",
                             pos: ve.create(-16, 7),
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-bank-ceiling-02.img",
                             pos: ve.create(6, 0),
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-bank-ceiling-03.img",
                             pos: ve.create(22, 8),
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -3275,7 +3275,7 @@ webpackJsonp([1], {
                         {
                             sprite: "",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -3297,7 +3297,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-vault-ceiling.img",
                             scale: 1,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 6250335
                         }
                     ]
@@ -3453,7 +3453,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-barn-floor-01.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -3478,13 +3478,13 @@ webpackJsonp([1], {
                             sprite: "map-building-barn-ceiling-01.img",
                             pos: ve.create(0, -2),
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-barn-ceiling-02.img",
                             pos: ve.create(0, 13.2),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -3857,7 +3857,7 @@ webpackJsonp([1], {
                             sprite: "map-building-barn-basement-floor-01.img",
                             pos: ve.create(5.5, -.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -3875,7 +3875,7 @@ webpackJsonp([1], {
                             sprite: "map-building-barn-basement-ceiling-01.img",
                             pos: ve.create(5, 0),
                             scale: 1,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 6182731
                         }
                     ]
@@ -3992,13 +3992,13 @@ webpackJsonp([1], {
                             sprite: "map-building-bridge-lg-floor.img",
                             pos: ve.create(-15.75, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-bridge-lg-floor.img",
                             pos: ve.create(15.75, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2,
                             mirrorY: !0
@@ -4018,7 +4018,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-bridge-lg-ceiling.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -4209,7 +4209,7 @@ webpackJsonp([1], {
                             sprite: "map-building-cabin-floor.img",
                             pos: ve.create(0, -1),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -4237,19 +4237,19 @@ webpackJsonp([1], {
                             sprite: "map-building-cabin-ceiling-01a.img",
                             pos: ve.create(0, .5),
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-cabin-ceiling-01b.img",
                             pos: ve.create(4, -13),
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-chimney-01.img",
                             pos: ve.create(13, 2),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             removeOnDamaged: !0
                         }
@@ -4489,13 +4489,13 @@ webpackJsonp([1], {
                             sprite: "map-building-hut-floor-01.img",
                             pos: ve.create(0, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-hut-floor-02.img",
                             pos: ve.create(0, -18.9),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -4513,7 +4513,7 @@ webpackJsonp([1], {
                         {
                             sprite: e.ceilingImg || "map-building-hut-ceiling-01.img",
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ],
@@ -4637,13 +4637,13 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-shack-floor-03.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-hut-floor-02.img",
                             pos: ve.create(-10.65, 7),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -4662,7 +4662,7 @@ webpackJsonp([1], {
                             sprite: "map-building-shack-ceiling-03.img",
                             pos: ve.create(.5, .5),
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 10461087
                         }
                     ],
@@ -4774,27 +4774,27 @@ webpackJsonp([1], {
                             sprite: "map-building-greenhouse-floor-01.img",
                             pos: ve.create(0, 10),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }, {
                             sprite: "map-building-greenhouse-floor-01.img",
                             pos: ve.create(0, -10),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(0, 21),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 0
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(0, -21),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }
@@ -4818,13 +4818,13 @@ webpackJsonp([1], {
                             sprite: "map-building-greenhouse-ceiling-01.img",
                             pos: ve.create(0, -9.85),
                             scale: 1,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-greenhouse-ceiling-01.img",
                             pos: ve.create(0, 9.85),
                             scale: 1,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             mirrorY: !0
                         }
@@ -5535,25 +5535,25 @@ webpackJsonp([1], {
                             sprite: "map-building-mansion-floor-01a.img",
                             pos: ve.create(-1.5, 22),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-mansion-floor-01b.img",
                             pos: ve.create(-3.5, -2),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-mansion-floor-01c.img",
                             pos: ve.create(28.5, 1.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-mansion-floor-01d.img",
                             pos: ve.create(-15, -24),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -5581,7 +5581,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-mansion-ceiling.img",
                             scale: 1,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -6131,25 +6131,25 @@ webpackJsonp([1], {
                             sprite: "map-building-mansion-gradient-01.img",
                             pos: ve.create(-3.75, .25),
                             scale: 4,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-mansion-cellar-01a.img",
                             pos: ve.create(11.5, 5.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-mansion-cellar-01b.img",
                             pos: ve.create(28.5, 1.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-mansion-cellar-01c.img",
                             pos: ve.create(11.5, -9),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -6381,7 +6381,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-outhouse-floor.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -6397,7 +6397,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-outhouse-ceiling.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ],
@@ -6488,13 +6488,13 @@ webpackJsonp([1], {
                             sprite: "map-building-pavilion-floor-01.img",
                             pos: ve.create(0, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-teahouse-floor-02.img",
                             pos: ve.create(0, -10.25),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -6513,7 +6513,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-pavilion-ceiling-01.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ],
@@ -6776,13 +6776,13 @@ webpackJsonp([1], {
                             sprite: "map-building-police-floor-01.img",
                             pos: ve.create(-9.5, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-police-floor-02.img",
                             pos: ve.create(33, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -6811,19 +6811,19 @@ webpackJsonp([1], {
                             sprite: "map-building-police-ceiling-01.img",
                             pos: ve.create(-21.5, 8.5),
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-police-ceiling-02.img",
                             pos: ve.create(10.5, 0),
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-police-ceiling-03.img",
                             pos: ve.create(31.96, 12.5),
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -7323,20 +7323,20 @@ webpackJsonp([1], {
                             sprite: "map-building-house-floor-01.img",
                             pos: ve.create(0, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(-1, 14.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 0
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(0, -14.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }
@@ -7359,7 +7359,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-house-ceiling.img",
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -7621,69 +7621,69 @@ webpackJsonp([1], {
                             sprite: "map-building-house-floor-02.img",
                             pos: ve.create(0, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(10, 14.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 0
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(0, -14.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(2.6, -14.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(5.2, -14.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(7.8, -14.5),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(0, -16.25),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(2.6, -16.25),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(5.2, -16.25),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }, {
                             sprite: "map-building-porch-01.img",
                             pos: ve.create(7.8, -16.25),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }
@@ -7706,7 +7706,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-house-ceiling.img",
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 13619151,
                             rot: 2
                         }
@@ -7966,7 +7966,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-shack-floor-01.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -7985,7 +7985,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-shack-ceiling-01.img",
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ],
@@ -8074,7 +8074,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-shack-floor-02.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -8092,7 +8092,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-shack-ceiling-02.img",
                             scale: .667,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ],
@@ -8182,13 +8182,13 @@ webpackJsonp([1], {
                             sprite: "map-building-warehouse-floor-01.img",
                             pos: ve.create(-15.615, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }, {
                             sprite: "map-building-warehouse-floor-01.img",
                             pos: ve.create(15.615, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }
@@ -8209,7 +8209,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-warehouse-ceiling-01.img",
                             scale: 1,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -8376,14 +8376,14 @@ webpackJsonp([1], {
                             sprite: "map-building-warehouse-floor-02.img",
                             pos: ve.create(-13.72, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 0
                         }, {
                             sprite: "map-building-warehouse-floor-02.img",
                             pos: ve.create(13.72, 0),
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             rot: 2
                         }
@@ -8404,7 +8404,7 @@ webpackJsonp([1], {
                         {
                             sprite: "map-building-warehouse-ceiling-02.img",
                             scale: 1,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215
                         }
                     ]
@@ -8560,7 +8560,7 @@ webpackJsonp([1], {
                     sprite: "map-building-house-window-01.img",
                     residue: "none",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 16777215,
                     zIdx: 10
                 },
@@ -8594,7 +8594,7 @@ webpackJsonp([1], {
                 img: {
                     sprite: "map-building-house-window-res-01.img",
                     scale: .5,
-                    alpha: 1,
+                    alpha: 0.5,
                     tint: 4456448,
                     zIdx: 10
                 },
@@ -8802,7 +8802,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-bollard-01.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 10
                     },
@@ -8833,7 +8833,7 @@ webpackJsonp([1], {
                 bush_01b: u(
                     {
                         img: {
-                            alpha: 1
+                            alpha: 0.5
                         }
                     }
                 ),
@@ -8931,7 +8931,7 @@ webpackJsonp([1], {
                     {
                         img: {
                             sprite: "map-bush-03.img",
-                            alpha: 1
+                            alpha: 0.5
                         }
                     }
                 ),
@@ -8942,7 +8942,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "map-bush-04.img",
                             residue: "map-bush-res-04.img",
-                            alpha: 1,
+                            alpha: 0.5,
                             scale: .5
                         },
                         terrain: {
@@ -8964,7 +8964,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "map-bush-04cb.img",
                             residue: "map-bush-res-04.img",
-                            alpha: 1,
+                            alpha: 0.5,
                             scale: .5
                         },
                         terrain: {
@@ -9017,7 +9017,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "map-bush-06.img",
                             residue: "map-bush-res-06.img",
-                            alpha: 1
+                            alpha: 0.5
                         },
                         map: {
                             display: !0,
@@ -9032,7 +9032,7 @@ webpackJsonp([1], {
                         explodeParticle: "leafRiver",
                         img: {
                             sprite: "map-bush-07.img",
-                            alpha: 1,
+                            alpha: 0.5,
                             scale: .5
                         },
                         sound: {
@@ -9051,7 +9051,7 @@ webpackJsonp([1], {
                         },
                         img: {
                             sprite: "map-bush-07sp.img",
-                            alpha: 1,
+                            alpha: 0.5,
                             scale: .5
                         },
                         sound: {
@@ -11054,7 +11054,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-candle-01.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 10
                     },
@@ -11131,7 +11131,7 @@ webpackJsonp([1], {
                         sprite: "map-fire-ext-01.img",
                         residue: "map-fire-ext-res.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 10
                     },
@@ -11249,7 +11249,7 @@ webpackJsonp([1], {
                         sprite: "map-piano-01.img",
                         residue: "map-drawers-res.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 10
                     },
@@ -11626,7 +11626,7 @@ webpackJsonp([1], {
                         sprite: "map-screen-01.img",
                         residue: "map-screen-res-01.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 10
                     },
@@ -11674,7 +11674,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-silo-01.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 10
                     },
@@ -11714,7 +11714,7 @@ webpackJsonp([1], {
                         sprite: "map-stairs-broken-01.img",
                         residue: "map-table-res.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 60
                     },
@@ -11755,7 +11755,7 @@ webpackJsonp([1], {
                         sprite: "map-stand-01.img",
                         residue: "map-drawers-res.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 10
                     },
@@ -11974,7 +11974,7 @@ webpackJsonp([1], {
                             sprite: "map-stone-07.img",
                             residue: "map-stone-res-07.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 10
                         }
@@ -12041,7 +12041,7 @@ webpackJsonp([1], {
                             sprite: "map-table-02.img",
                             residue: "map-table-res.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 60
                         }
@@ -12055,7 +12055,7 @@ webpackJsonp([1], {
                             sprite: "map-table-02x.img",
                             residue: "map-table-res.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 60
                         }
@@ -12069,7 +12069,7 @@ webpackJsonp([1], {
                             sprite: "map-table-03.img",
                             residue: "map-table-res.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 60
                         }
@@ -12083,7 +12083,7 @@ webpackJsonp([1], {
                             sprite: "map-table-03x.img",
                             residue: "map-table-res.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 60
                         }
@@ -12118,7 +12118,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "map-tire-01.img",
                             scale: .4,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 10
                         },
@@ -12823,7 +12823,7 @@ webpackJsonp([1], {
                         sprite: "map-vat-01.img",
                         residue: "map-vat-res.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 10
                     },
@@ -12863,7 +12863,7 @@ webpackJsonp([1], {
                         sprite: "map-vat-02.img",
                         residue: "map-vat-res.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 10
                     },
@@ -12910,7 +12910,7 @@ webpackJsonp([1], {
                             sprite: "map-vending-soda-01.img",
                             residue: "map-vending-res.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 10
                         },
@@ -12989,7 +12989,7 @@ webpackJsonp([1], {
                         sprite: "map-building-bank-window-01.img",
                         residue: "map-building-bank-window-res-01.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 10
                     },
@@ -13200,7 +13200,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -13215,7 +13215,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-container-ceiling-05.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 11485762
                             }
                         ]
@@ -13237,27 +13237,27 @@ webpackJsonp([1], {
                                 sprite: "map-building-greenhouse-floor-02.img",
                                 pos: ve.create(0, 10),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 2
                             }, {
                                 sprite: "map-building-greenhouse-floor-02.img",
                                 pos: ve.create(0, -10),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-building-porch-01.img",
                                 pos: ve.create(0, 21),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 0
                             }, {
                                 sprite: "map-building-porch-01.img",
                                 pos: ve.create(0, -21),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 2
                             }
@@ -13266,7 +13266,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-greenhouse-ceiling-02.img",
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ],
@@ -13454,7 +13454,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-generic-floor-03.img",
                                 pos: ve.create(0, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -13470,7 +13470,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-generic-ceiling-02.img",
                                 pos: ve.create(0, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 0
                             }
@@ -13519,7 +13519,7 @@ webpackJsonp([1], {
                                 sprite: "map-door-slot-01.img",
                                 pos: ve.create(-2, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 1316379
                             }
                         },
@@ -13552,13 +13552,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-chamber-floor-01a.img",
                                 pos: ve.create(0, 1.85),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-chrys-chamber-floor-01b.img",
                                 pos: ve.create(11, -10.75),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -13574,7 +13574,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-chamber-ceiling-01.img",
                                 pos: ve.create(11.5, -11),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }
                         ]
@@ -13733,13 +13733,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-chamber-floor-01a.img",
                                 pos: ve.create(0, 1.85),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-chrys-chamber-floor-01b.img",
                                 pos: ve.create(11, -10.75),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -13755,7 +13755,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-chamber-ceiling-01.img",
                                 pos: ve.create(11.5, -11),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }
                         ]
@@ -13927,13 +13927,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-floor-01a.img",
                                 pos: ve.create(-12.5, -4.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-chrys-compartment-floor-01b.img",
                                 pos: ve.create(3.5, 2),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -13949,13 +13949,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-ceiling-01a.img",
                                 pos: ve.create(-10.5, -2.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }, {
                                 sprite: "map-bunker-chrys-compartment-ceiling-01b.img",
                                 pos: ve.create(4, 3),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }
                         ]
@@ -14073,13 +14073,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-floor-01a.img",
                                 pos: ve.create(-12.5, -4.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-chrys-compartment-floor-01c.img",
                                 pos: ve.create(3.5, 2),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -14095,13 +14095,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-ceiling-01a.img",
                                 pos: ve.create(-10.5, -2.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }, {
                                 sprite: "map-bunker-chrys-compartment-ceiling-01b.img",
                                 pos: ve.create(4, 3),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }
                         ]
@@ -14270,13 +14270,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-floor-02a.img",
                                 pos: ve.create(0, -2.75),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-chrys-compartment-floor-02b.img",
                                 pos: ve.create(0, 9.75),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -14292,13 +14292,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-ceiling-02a.img",
                                 pos: ve.create(0, 8.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }, {
                                 sprite: "map-bunker-chrys-compartment-ceiling-02b.img",
                                 pos: ve.create(0, -2.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }
                         ]
@@ -14376,13 +14376,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-floor-02a.img",
                                 pos: ve.create(0, -2.75),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-chrys-compartment-floor-02c.img",
                                 pos: ve.create(0, 9.75),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -14398,13 +14398,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-ceiling-02a.img",
                                 pos: ve.create(0, 8.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }, {
                                 sprite: "map-bunker-chrys-compartment-ceiling-02b.img",
                                 pos: ve.create(0, -2.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }
                         ]
@@ -14494,7 +14494,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-floor-03a.img",
                                 pos: ve.create(0, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -14510,14 +14510,14 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-ceiling-03a.img",
                                 pos: ve.create(0, -9.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731,
                                 rot: 0
                             }, {
                                 sprite: "map-bunker-chrys-compartment-ceiling-03b.img",
                                 pos: ve.create(0, 3),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731,
                                 rot: 0
                             }
@@ -14628,7 +14628,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-floor-03a.img",
                                 pos: ve.create(0, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -14644,14 +14644,14 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-chrys-compartment-ceiling-03a.img",
                                 pos: ve.create(0, -9.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731,
                                 rot: 0
                             }, {
                                 sprite: "map-bunker-chrys-compartment-ceiling-03b.img",
                                 pos: ve.create(0, 3),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731,
                                 rot: 0
                             }
@@ -14766,7 +14766,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-hedgehog-01.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -15104,20 +15104,20 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-hut-ceiling-01.img",
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-04.img",
                                     pos: ve.create(4.5, .5),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-05.img",
                                     pos: ve.create(-.5, 5),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }
@@ -15136,20 +15136,20 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-hut-ceiling-02.img",
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-04.img",
                                     pos: ve.create(4.5, .5),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-05.img",
                                     pos: ve.create(.5, -4.5),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 3
                                 }
@@ -15223,34 +15223,34 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-warehouse-ceiling-01.img",
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-04.img",
                                     pos: ve.create(7.5, 5),
                                     scale: .9,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }, {
                                     sprite: "map-snow-05.img",
                                     pos: ve.create(-8.5, 4),
                                     scale: .9,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 2
                                 }, {
                                     sprite: "map-snow-06.img",
                                     pos: ve.create(22.25, 11.25),
                                     scale: .75,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-06.img",
                                     pos: ve.create(-22.25, -11.25),
                                     scale: .75,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 2
                                 }
@@ -15266,27 +15266,27 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-warehouse-ceiling-02.img",
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-04.img",
                                     pos: ve.create(0, 4),
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-06.img",
                                     pos: ve.create(20.25, -9.75),
                                     scale: .75,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }, {
                                     sprite: "map-snow-06.img",
                                     pos: ve.create(-20.25, 9.75),
                                     scale: .75,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 3
                                 }
@@ -15434,19 +15434,19 @@ webpackJsonp([1], {
                                 sprite: "map-complex-warehouse-floor-01.img",
                                 pos: ve.create(-39.2, 55),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-complex-warehouse-floor-02.img",
                                 pos: ve.create(-39.2, 11.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-complex-warehouse-floor-03.img",
                                 pos: ve.create(-39.2, -32),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -16333,7 +16333,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-archway-ceiling-01.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ],
@@ -16796,7 +16796,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -16829,7 +16829,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -17017,7 +17017,7 @@ webpackJsonp([1], {
                                 sprite: "map-complex-warehouse-floor-04.img",
                                 pos: ve.create(81, 10),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -17289,7 +17289,7 @@ webpackJsonp([1], {
                                 sprite: "map-complex-warehouse-floor-05.img",
                                 pos: ve.create(81, 10),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -17444,20 +17444,20 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-shack-ceiling-01.img",
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-05.img",
                                     pos: ve.create(-4, 2.5),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-04.img",
                                     pos: ve.create(3.5, -.5),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }
@@ -17473,13 +17473,13 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-shack-ceiling-02.img",
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-05.img",
                                     pos: ve.create(-2, 1),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }
@@ -17584,13 +17584,13 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-shack-floor-03.img",
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-hut-floor-02.img",
                                     pos: ve.create(-10.65, 9),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ]
@@ -17601,7 +17601,7 @@ webpackJsonp([1], {
                                     sprite: "map-building-shack-ceiling-03.img",
                                     pos: ve.create(.5, .5),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ]
@@ -17626,13 +17626,13 @@ webpackJsonp([1], {
                                     sprite: "map-building-shack-ceiling-03.img",
                                     pos: ve.create(.5, .5),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 10461087
                                 }, {
                                     sprite: "map-snow-01.img",
                                     pos: ve.create(3.75, 1.75),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }
@@ -17681,13 +17681,13 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-outhouse-ceiling.img",
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-04.img",
                                     pos: ve.create(2.25, 0),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }
@@ -17708,7 +17708,7 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-outhouse-ceiling.img",
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 13735576
                                 }
                             ],
@@ -17752,7 +17752,7 @@ webpackJsonp([1], {
                                     sprite: "map-building-perch-floor.img",
                                     pos: ve.create(0, 0),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ]
@@ -17763,7 +17763,7 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-perch-ceiling.img",
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ],
@@ -18675,7 +18675,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-panicroom-floor.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -18690,7 +18690,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-panicroom-ceiling.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -18750,7 +18750,7 @@ webpackJsonp([1], {
                                 sprite: "map-building-barn-basement-stairs.img",
                                 pos: ve.create(0, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -18806,7 +18806,7 @@ webpackJsonp([1], {
                                 sprite: "map-building-barn-basement-floor-02.img",
                                 pos: ve.create(-2, -.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -18822,7 +18822,7 @@ webpackJsonp([1], {
                                 sprite: "map-building-barn-basement-ceiling-02.img",
                                 pos: ve.create(-1.4, 0),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }
                         ]
@@ -18860,7 +18860,7 @@ webpackJsonp([1], {
                                 sprite: "map-building-barn-basement-floor-02.img",
                                 pos: ve.create(-2, -.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -18876,7 +18876,7 @@ webpackJsonp([1], {
                                 sprite: "map-building-barn-basement-ceiling-02.img",
                                 pos: ve.create(-1.4, 0),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6182731
                             }
                         ]
@@ -19042,33 +19042,33 @@ webpackJsonp([1], {
                                     sprite: "map-building-barn-ceiling-01.img",
                                     pos: ve.create(0, -2),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-barn-ceiling-02.img",
                                     pos: ve.create(0, 13.2),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-01.img",
                                     pos: ve.create(-14.5, 5.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-02.img",
                                     pos: ve.create(-.5, -9),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-03.img",
                                     pos: ve.create(14.5, 5.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }
@@ -19135,46 +19135,46 @@ webpackJsonp([1], {
                                     sprite: "map-building-bank-ceiling-01.img",
                                     pos: ve.create(-16, 7),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-bank-ceiling-02.img",
                                     pos: ve.create(6, 0),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-bank-ceiling-03.img",
                                     pos: ve.create(22, 8),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-02.img",
                                     pos: ve.create(-13, 0),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }, {
                                     sprite: "map-snow-04.img",
                                     pos: ve.create(1.25, 9.25),
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 2
                                 }, {
                                     sprite: "map-snow-06.img",
                                     pos: ve.create(13.75, 15.25),
                                     scale: .75,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-06.img",
                                     pos: ve.create(15.25, -15.75),
                                     scale: .75,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }
@@ -19267,60 +19267,60 @@ webpackJsonp([1], {
                                     sprite: "map-building-police-ceiling-01.img",
                                     pos: ve.create(-21.5, 8.5),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-police-ceiling-02.img",
                                     pos: ve.create(10.5, 0),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-police-ceiling-03.img",
                                     pos: ve.create(31.96, 12.5),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-01.img",
                                     pos: ve.create(13, 17.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 3
                                 }, {
                                     sprite: "map-snow-02.img",
                                     pos: ve.create(-21, 14),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-03.img",
                                     pos: ve.create(30.25, 6.25),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 2
                                 }, {
                                     sprite: "map-snow-07.img",
                                     pos: ve.create(4.5, -3.25),
                                     scale: .6,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }, {
                                     sprite: "map-snow-06.img",
                                     pos: ve.create(-40.25, 14.75),
                                     scale: .75,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 3
                                 }, {
                                     sprite: "map-snow-06.img",
                                     pos: ve.create(-38.75, .75),
                                     scale: .75,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 2
                                 }
@@ -19397,19 +19397,19 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-house-ceiling.img",
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-01.img",
                                     pos: ve.create(-5.5, 8.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-02.img",
                                     pos: ve.create(4.5, -7),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ]
@@ -19429,21 +19429,21 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-house-ceiling.img",
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 13619151,
                                     rot: 2
                                 }, {
                                     sprite: "map-snow-02.img",
                                     pos: ve.create(3.5, 6),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 2
                                 }, {
                                     sprite: "map-snow-01.img",
                                     pos: ve.create(-4.5, -8),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 3
                                 }
@@ -19484,40 +19484,40 @@ webpackJsonp([1], {
                                     sprite: "map-building-cabin-ceiling-01a.img",
                                     pos: ve.create(0, .5),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-cabin-ceiling-01b.img",
                                     pos: ve.create(4, -13),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-01.img",
                                     pos: ve.create(-13, 6),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }, {
                                     sprite: "map-snow-02.img",
                                     pos: ve.create(-3.5, -6.25),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }, {
                                     sprite: "map-snow-03.img",
                                     pos: ve.create(10.75, 8.25),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-chimney-01.img",
                                     pos: ve.create(13, 2),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     removeOnDamaged: !0
                                 }
@@ -19567,13 +19567,13 @@ webpackJsonp([1], {
                                 sprite: "map-building-dock-floor-01a.img",
                                 pos: ve.create(-2.5, 7.85),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-building-dock-floor-01b.img",
                                 pos: ve.create(2.5, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -19709,7 +19709,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-saferoom-floor.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -19724,7 +19724,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-saferoom-ceiling.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -19768,55 +19768,55 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-mansion-ceiling.img",
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-01.img",
                                     pos: ve.create(6, 19.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }, {
                                     sprite: "map-snow-02.img",
                                     pos: ve.create(-16, 8),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 2
                                 }, {
                                     sprite: "map-snow-03.img",
                                     pos: ve.create(20.25, -1.75),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }, {
                                     sprite: "map-snow-04.img",
                                     pos: ve.create(10.25, -13.25),
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-05.img",
                                     pos: ve.create(10.25, 6.25),
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-07.img",
                                     pos: ve.create(-21.25, -20.25),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 2
                                 }, {
                                     sprite: "map-snow-06.img",
                                     pos: ve.create(-29.75, 13.25),
                                     scale: .75,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 3
                                 }
@@ -19913,7 +19913,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 4456448,
                             zIdx: 10
                         }
@@ -19925,7 +19925,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 4456448,
                             zIdx: 10
                         }
@@ -19937,7 +19937,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "map-saloon-bar-01.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 10
                         }
@@ -19949,7 +19949,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "map-saloon-bar-02.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 10
                         }
@@ -20122,13 +20122,13 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-saloon-floor-01.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-building-saloon-ceiling-02.img",
                                 pos: ve.create(-23.5, 1),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -20154,19 +20154,19 @@ webpackJsonp([1], {
                                 sprite: "map-building-saloon-ceiling-01.img",
                                 pos: ve.create(0, 0),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-building-saloon-ceiling-02.img",
                                 pos: ve.create(-23.5, 1),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-chimney-01.img",
                                 pos: ve.create(-3, 3),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 removeOnDamaged: !0
                             }
@@ -20565,7 +20565,7 @@ webpackJsonp([1], {
                                 sprite: "map-building-saloon-cellar-01.img",
                                 pos: ve.create(0, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -20581,7 +20581,7 @@ webpackJsonp([1], {
                                 sprite: "",
                                 pos: ve.create(-2, 3.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ],
@@ -20805,7 +20805,7 @@ webpackJsonp([1], {
                                 sprite: "map-door-slot-02.img",
                                 pos: ve.create(-2, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 3211264
                             }
                         }
@@ -20859,19 +20859,19 @@ webpackJsonp([1], {
                                     sprite: "map-building-teahouse-floor-01.img",
                                     pos: ve.create(0, 0),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-teahouse-floor-02.img",
                                     pos: ve.create(9, -10.25),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-teahouse-floor-02.img",
                                     pos: ve.create(-9, 10.25),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 2
                                 }
@@ -20891,7 +20891,7 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-teahouse-ceiling-01.img",
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ],
@@ -21377,7 +21377,7 @@ webpackJsonp([1], {
                             sprite: "map-wall-03-grassy.img",
                             residue: "map-wall-03-grassy-res.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 10
                         },
@@ -21403,7 +21403,7 @@ webpackJsonp([1], {
                             sprite: "map-wall-08-grassy.img",
                             residue: "map-wall-08-grassy-res.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 10
                         },
@@ -22076,7 +22076,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 4456448,
                             zIdx: 10
                         }
@@ -22088,7 +22088,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 4456448,
                             zIdx: 10
                         }
@@ -22100,7 +22100,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "map-club-bar-01.img",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 16777215,
                             zIdx: 10
                         }
@@ -22130,7 +22130,7 @@ webpackJsonp([1], {
                                 sprite: "map-door-slot-01.img",
                                 pos: ve.create(-2, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 1316379
                             }
                         },
@@ -22188,7 +22188,7 @@ webpackJsonp([1], {
                                 sprite: "map-door-slot-01.img",
                                 pos: ve.create(-2, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 1316379
                             }
                         },
@@ -22303,49 +22303,49 @@ webpackJsonp([1], {
                                     sprite: "map-building-club-floor-01a.img",
                                     pos: ve.create(-30, -8.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-club-floor-01b.img",
                                     pos: ve.create(-21.5, 8),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-club-floor-01c.img",
                                     pos: ve.create(-4, -8.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-club-floor-01d.img",
                                     pos: ve.create(1.5, -25),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-club-floor-01e.img",
                                     pos: ve.create(24, -7.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-club-floor-01f.img",
                                     pos: ve.create(6.5, 7),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-club-floor-01g.img",
                                     pos: ve.create(6, 18),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-club-floor-01h.img",
                                     pos: ve.create(-1.5, 31.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ]
@@ -22391,19 +22391,19 @@ webpackJsonp([1], {
                                     sprite: "map-building-club-ceiling-01a.img",
                                     pos: ve.create(-4.5, -8.5),
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-club-ceiling-01b.img",
                                     pos: ve.create(24, -7.5),
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-club-ceiling-01c.img",
                                     pos: ve.create(6, 22.5),
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ]
@@ -23030,37 +23030,37 @@ webpackJsonp([1], {
                                     sprite: "map-building-club-gradient-01.img",
                                     pos: ve.create(-3.5, -13.5),
                                     scale: 4,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-bathhouse-basement-01a.img",
                                     pos: ve.create(-33.5, -26),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-bathhouse-basement-01b.img",
                                     pos: ve.create(-10, -26.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-bathhouse-basement-01c.img",
                                     pos: ve.create(18.5, -35.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-bathhouse-basement-01d.img",
                                     pos: ve.create(23.02, -27.5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-building-bathhouse-basement-01e.img",
                                     pos: ve.create(2, 9),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ]
@@ -23467,7 +23467,7 @@ webpackJsonp([1], {
                                     sprite: "map-building-bathhouse-sideroom-01.img",
                                     pos: ve.create(-1, 0),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ]
@@ -23488,7 +23488,7 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-bathhouse-sideroom-ceiling-01.img",
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ]
@@ -23578,7 +23578,7 @@ webpackJsonp([1], {
                                     sprite: "map-building-bathhouse-sideroom-02.img",
                                     pos: ve.create(0, .5),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ]
@@ -23599,7 +23599,7 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-bathhouse-sideroom-ceiling-02.img",
                                     scale: 1,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 4931116
                                 }
                             ]
@@ -23745,7 +23745,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -23760,7 +23760,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-club-vault-ceiling.img",
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -23890,7 +23890,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-generic-floor-01.img",
                                 pos: ve.create(0, 7.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -23984,13 +23984,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-egg-chamber-floor-01a.img",
                                 pos: ve.create(-.15, -4.6),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-egg-chamber-floor-01b.img",
                                 pos: ve.create(0, 9.24),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -24005,7 +24005,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-bunker-egg-chamber-ceiling-01.img",
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ],
@@ -24098,13 +24098,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-egg-chamber-floor-01a.img",
                                 pos: ve.create(-.15, -4.6),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-egg-chamber-floor-01b.img",
                                 pos: ve.create(0, 9.25),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -24119,7 +24119,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-bunker-egg-chamber-ceiling-01.img",
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ],
@@ -24212,13 +24212,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-egg-chamber-floor-01a.img",
                                 pos: ve.create(-.15, -4.6),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-egg-chamber-floor-01b.img",
                                 pos: ve.create(0, 9.25),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -24233,7 +24233,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-bunker-egg-chamber-ceiling-01.img",
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ],
@@ -24421,20 +24421,20 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hydra-floor-01.img",
                                 pos: ve.create(25.75, 3.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-generic-floor-01.img",
                                 pos: ve.create(-16.5, -90),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 2
                             }, {
                                 sprite: "map-bunker-generic-floor-01.img",
                                 pos: ve.create(40, -51),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -24452,7 +24452,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hydra-ceiling-01.img",
                                 pos: ve.create(25.75, 3.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ],
@@ -24675,25 +24675,25 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hydra-chamber-floor-01a.img",
                                 pos: ve.create(17.5, 3.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-hydra-chamber-floor-01b.img",
                                 pos: ve.create(3.5, 2.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-hydra-chamber-floor-02.img",
                                 pos: ve.create(-15.5, -83),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-hydra-chamber-floor-03.img",
                                 pos: ve.create(40.5, -58.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -24713,19 +24713,19 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hydra-chamber-ceiling-01.img",
                                 pos: ve.create(7, 2),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }, {
                                 sprite: "map-bunker-hydra-chamber-ceiling-02.img",
                                 pos: ve.create(-13.5, -76.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }, {
                                 sprite: "map-bunker-hydra-chamber-ceiling-03.img",
                                 pos: ve.create(38, -62),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ],
@@ -24983,7 +24983,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-bunker-hydra-compartment-floor-01.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -24999,7 +24999,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hydra-compartment-ceiling-01.img",
                                 pos: ve.create(0, 1.25),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -25120,7 +25120,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hydra-compartment-floor-02.img",
                                 pos: ve.create(0, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -25136,7 +25136,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hydra-compartment-ceiling-02.img",
                                 pos: ve.create(0, 1),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -25366,7 +25366,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hydra-compartment-floor-03.img",
                                 pos: ve.create(0, -.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -25382,7 +25382,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hydra-compartment-ceiling-03.img",
                                 pos: ve.create(0, 1),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -25510,7 +25510,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-storm-floor-02.img",
                                 pos: ve.create(1.25, 10),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -25533,7 +25533,7 @@ webpackJsonp([1], {
                                 sprite: "map-building-shack-ceiling-01.img",
                                 pos: ve.create(-1, 10),
                                 scale: .667,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 1
                             }
@@ -25643,13 +25643,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-storm-chamber-floor-01a.img",
                                 pos: ve.create(8.5, -4.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-storm-chamber-floor-01b.img",
                                 pos: ve.create(0, 9.25),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -25665,7 +25665,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-storm-chamber-ceiling-01.img",
                                 pos: ve.create(8.5, -1),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ],
@@ -25868,13 +25868,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-conch-floor-01.img",
                                 pos: ve.create(20.75, 3.45),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-conch-floor-01.img",
                                 pos: ve.create(48.75, -32.45),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -25894,13 +25894,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-conch-ceiling-01.img",
                                 pos: ve.create(19.25, 3.35),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-conch-ceiling-01.img",
                                 pos: ve.create(47.25, -32.55),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ],
@@ -25994,13 +25994,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-conch-chamber-floor-01.img",
                                 pos: ve.create(4, 5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-conch-chamber-floor-02.img",
                                 pos: ve.create(34.86, -29.9),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -26018,13 +26018,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-conch-chamber-ceiling-01.img",
                                 pos: ve.create(-2, 3.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }, {
                                 sprite: "map-bunker-conch-chamber-ceiling-02.img",
                                 pos: ve.create(26.25, -29.9),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ],
@@ -26180,13 +26180,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-conch-compartment-floor-01a.img",
                                 pos: ve.create(-3, -.75),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-conch-compartment-floor-01b.img",
                                 pos: ve.create(9.75, -17.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -26204,7 +26204,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-conch-compartment-ceiling-01.img",
                                 pos: ve.create(-.75, -5.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ],
@@ -26404,7 +26404,7 @@ webpackJsonp([1], {
                                     sprite: "map-bunker-crossing-ceiling-01.img",
                                     pos: ve.create(0, 0),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }
@@ -26435,7 +26435,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-crossing-floor-01.img",
                                 pos: ve.create(0, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -26492,56 +26492,56 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-crossing-chamber-floor-01a.img",
                                 pos: ve.create(-11.44, 27),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 2
                             }, {
                                 sprite: "map-bunker-crossing-chamber-floor-01b.img",
                                 pos: ve.create(-9.38, 18.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 2
                             }, {
                                 sprite: "map-bunker-crossing-chamber-floor-01c.img",
                                 pos: ve.create(-36.44, 18.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 2
                             }, {
                                 sprite: "map-bunker-crossing-chamber-floor-03.img",
                                 pos: ve.create(28.5, 23.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 2
                             }, {
                                 sprite: "map-bunker-crossing-chamber-floor-02.img",
                                 pos: ve.create(-28.5, -17.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 0
                             }, {
                                 sprite: "map-bunker-crossing-chamber-floor-01a.img",
                                 pos: ve.create(11.45, -21),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 0
                             }, {
                                 sprite: "map-bunker-crossing-chamber-floor-01b.img",
                                 pos: ve.create(9.39, -12.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 0
                             }, {
                                 sprite: "map-bunker-crossing-chamber-floor-01c.img",
                                 pos: ve.create(36.45, -12.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 0
                             }
@@ -26564,13 +26564,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-crossing-chamber-ceiling-01.img",
                                 pos: ve.create(-3.5, 24),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }, {
                                 sprite: "map-bunker-crossing-chamber-ceiling-01.img",
                                 pos: ve.create(3.5, -18),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335,
                                 rot: 2
                             }
@@ -26777,7 +26777,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -26792,7 +26792,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-crossing-bathroom-ceiling.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -26832,13 +26832,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-crossing-compartment-floor-02.img",
                                 pos: ve.create(-22.5, -10),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-crossing-compartment-floor-01.img",
                                 pos: ve.create(4, 3),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -26856,13 +26856,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-crossing-compartment-ceiling-01a.img",
                                 pos: ve.create(-22.475, -11),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }, {
                                 sprite: "map-bunker-crossing-compartment-ceiling-01b.img",
                                 pos: ve.create(3.975, 3),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ],
@@ -27177,7 +27177,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-storm-floor-02.img",
                                 pos: ve.create(1.25, 10),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -27200,7 +27200,7 @@ webpackJsonp([1], {
                                 sprite: "map-building-shack-ceiling-01.img",
                                 pos: ve.create(-1, 10),
                                 scale: .667,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 1
                             }
@@ -27301,19 +27301,19 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hatchet-chamber-floor-01a.img",
                                 pos: ve.create(0, -4.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-hatchet-chamber-floor-01b.img",
                                 pos: ve.create(0, 9.25),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-hatchet-chamber-floor-01c.img",
                                 pos: ve.create(-15, -9.475),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -27329,7 +27329,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hatchet-chamber-ceiling-01.img",
                                 pos: ve.create(-3, -4.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ],
@@ -27452,7 +27452,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hatchet-compartment-floor-01.img",
                                 pos: ve.create(0, .5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -27468,7 +27468,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hatchet-compartment-ceiling-01.img",
                                 pos: ve.create(0, 0),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -27597,25 +27597,25 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hatchet-compartment-floor-02a.img",
                                 pos: ve.create(4, -8.25),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-hatchet-compartment-floor-02b.img",
                                 pos: ve.create(.75, 6),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-hatchet-compartment-floor-02c.img",
                                 pos: ve.create(-14, .5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-hatchet-compartment-floor-02d.img",
                                 pos: ve.create(-6.27, 14.25),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -27631,7 +27631,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hatchet-compartment-ceiling-02.img",
                                 pos: ve.create(-.5, -.5),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -27802,25 +27802,25 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hatchet-compartment-floor-03a.img",
                                 pos: ve.create(-14.5, -8.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-hatchet-compartment-floor-03b.img",
                                 pos: ve.create(-9, 3),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-hatchet-compartment-floor-03c.img",
                                 pos: ve.create(5.5, -.25),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-hatchet-compartment-floor-03d.img",
                                 pos: ve.create(14.5, -3.75),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -27836,7 +27836,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hatchet-compartment-ceiling-03.img",
                                 pos: ve.create(0, 0),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -27959,7 +27959,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-generic-floor-01.img",
                                 pos: ve.create(0, 7.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -27975,7 +27975,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-generic-ceiling-01.img",
                                 pos: ve.create(0, 7.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 0
                             }
@@ -28078,13 +28078,13 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-eye-chamber-floor-01a.img",
                                 pos: ve.create(0, -8.5),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }, {
                                 sprite: "map-bunker-eye-chamber-floor-01b.img",
                                 pos: ve.create(13, -23),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -28100,7 +28100,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-eye-chamber-ceiling-01.img",
                                 pos: ve.create(0, -12),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ],
@@ -28314,7 +28314,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-eye-compartment-floor-01.img",
                                 pos: ve.create(0, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -28330,7 +28330,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-eye-compartment-ceiling-01.img",
                                 pos: ve.create(0, 0),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -28419,7 +28419,7 @@ webpackJsonp([1], {
                                     sprite: "map-bunker-twins-ceiling-01.img",
                                     pos: ve.create(0, 0),
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }
@@ -28446,7 +28446,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-vent-02.img",
                                 pos: ve.create(0, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -28519,7 +28519,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-twins-chamber-floor-01.img",
                                 pos: ve.create(0, 0),
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -28534,7 +28534,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-bunker-twins-chamber-ceiling-01.img",
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335
                             }
                         ]
@@ -28766,7 +28766,7 @@ webpackJsonp([1], {
                                 sprite: "map-bunker-hydra-compartment-ceiling-03.img",
                                 pos: ve.create(0, 0),
                                 scale: 1,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 6250335,
                                 rot: 0,
                                 mirrorX: !0
@@ -28835,7 +28835,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 4456448,
                             zIdx: 10
                         }
@@ -28847,7 +28847,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 4456448,
                             zIdx: 10
                         }
@@ -28861,34 +28861,34 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-bridge-lg-ceiling.img",
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }, {
                                     sprite: "map-snow-03.img",
                                     pos: ve.create(-10, -4),
                                     scale: .4,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-07.img",
                                     pos: ve.create(8, 4),
                                     scale: .4,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 0
                                 }, {
                                     sprite: "map-snow-06.img",
                                     pos: ve.create(15, -5.25),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 1
                                 }, {
                                     sprite: "map-snow-06.img",
                                     pos: ve.create(-15, 5.25),
                                     scale: .667,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215,
                                     rot: 3
                                 }
@@ -28988,7 +28988,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 4456448,
                             zIdx: 10
                         }
@@ -29034,7 +29034,7 @@ webpackJsonp([1], {
                                 {
                                     sprite: "map-building-bridge-xlg-floor.img",
                                     scale: .5,
-                                    alpha: 1,
+                                    alpha: 0.5,
                                     tint: 16777215
                                 }
                             ]
@@ -29300,7 +29300,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 4456448,
                             zIdx: 10
                         }
@@ -29312,7 +29312,7 @@ webpackJsonp([1], {
                         img: {
                             sprite: "",
                             scale: .5,
-                            alpha: 1,
+                            alpha: 0.5,
                             tint: 4456448,
                             zIdx: 10
                         }
@@ -29351,7 +29351,7 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-bridge-md-floor.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215
                             }
                         ]
@@ -29530,13 +29530,13 @@ webpackJsonp([1], {
                             {
                                 sprite: "map-building-container-ceiling-01.img",
                                 scale: .5,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 2703694
                             }, {
                                 sprite: "map-snow-05.img",
                                 pos: ve.create(0, 3),
                                 scale: .6,
-                                alpha: 1,
+                                alpha: 0.5,
                                 tint: 16777215,
                                 rot: 0
                             }
@@ -29768,7 +29768,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-barrel-res-01.img",
                         scale: .24,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 0,
                         zIdx: 9
                     }
@@ -29877,7 +29877,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-bunker-vent-01.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 0
                     }
@@ -29889,7 +29889,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-bunker-vent-02.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 0
                     }
@@ -29901,7 +29901,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-bunker-vent-03.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 0
                     }
@@ -29913,7 +29913,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-bunker-hydra-floor-04.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 0
                     }
@@ -29985,7 +29985,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-decal-initiative.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 0
                     }
@@ -30117,7 +30117,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-bunker-vent-01.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 3
                     }
@@ -30129,7 +30129,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-decal-oil-01.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 0
                     }
@@ -30141,7 +30141,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-decal-oil-02.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 0
                     }
@@ -30153,7 +30153,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-decal-oil-03.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 0
                     }
@@ -30165,7 +30165,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-decal-oil-04.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 0
                     }
@@ -30177,7 +30177,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-decal-oil-05.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 0
                     }
@@ -30189,7 +30189,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-decal-oil-06.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 0
                     }
@@ -30232,7 +30232,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "map-decal-club-01.img",
                         scale: 1,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 16777215,
                         zIdx: 4
                     }
@@ -30255,7 +30255,7 @@ webpackJsonp([1], {
                             pow: 3.25,
                             speed: .5
                         },
-                        alpha: 1
+                        alpha: 0.5
                     }
                 },
                 decal_plank_01: {
@@ -30265,7 +30265,7 @@ webpackJsonp([1], {
                     img: {
                         sprite: "part-plank-01.img",
                         scale: .5,
-                        alpha: 1,
+                        alpha: 0.5,
                         tint: 4327436,
                         zIdx: 9
                     }
@@ -43438,7 +43438,7 @@ i.prototype = {
                 zoomRegions: [],
                 vision: f,
                 visionTicker: 0,
-                fadeAlpha: 1
+                fadealpha: 0.5
             };
             for (var _ = 0; _ < p.ceiling.zoomRegions.length; _++) {
                 var b = p.ceiling.zoomRegions[_];
